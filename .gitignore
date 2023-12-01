@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# 构建目录
+/build
+
+# Visual Studio Code 配置
+.vscode/
+
+# Clion 配置
+.idea/
+
+# CLion 构建目录
+cmake-build-debug/
+cmake-build-release/
